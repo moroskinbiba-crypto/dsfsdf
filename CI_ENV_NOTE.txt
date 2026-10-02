@@ -1,0 +1,12 @@
+CI fix 3.2.0
+
+Root cause of the last CI failure:
+The devkitPro container installs the AArch64 compiler under
+$DEVKITPRO/devkitA64/bin. That directory is not necessarily on PATH in the
+raw container shell. The previous workflow called aarch64-none-elf-g++ directly.
+
+This package:
+- derives DEVKITA64 from DEVKITPRO;
+- checks the compiler by absolute path;
+- adds $DEVKITA64/bin and $DEVKITPRO/tools/bin to GITHUB_ENV PATH;
+- also adds the same PATH and DEVKITA64 in the Makefile before switch_rules.

@@ -34,6 +34,8 @@ for needle in [
     'include-hidden-files: true',
     'test -s artifact/sd/switch/.overlays/TOTK-Explorer-v3.ovl',
     'test -f data/points.csv',
+    'Configure devkitPro environment',
+    '$DEVKITA64/bin/aarch64-none-elf-g++',
 ]:
     if needle not in workflow:
         errors.append(f"workflow missing: {needle}")
