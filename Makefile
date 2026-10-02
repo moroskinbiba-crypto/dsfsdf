@@ -11,6 +11,13 @@ endif
 TOPDIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 TOPDIR := $(patsubst %/,%,$(TOPDIR))
 
+# devkitPro's container keeps the Switch compiler under devkitA64/bin rather
+# than putting it directly on PATH. Make the path explicit before the official
+# libnx switch_rules are included.
+DEVKITA64 ?= $(DEVKITPRO)/devkitA64
+export DEVKITA64
+export PATH := $(DEVKITA64)/bin:$(DEVKITPRO)/tools/bin:$(PATH)
+
 include $(DEVKITPRO)/libnx/switch_rules
 
 APP_TITLE := TOTK Explorer
