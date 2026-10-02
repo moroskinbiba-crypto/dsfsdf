@@ -1,0 +1,4 @@
+# Enter the three numbers currently shown by TOTK on the mini-map HUD.
+# Optional 4th number is tolerance in game units. Default is 1.0.
+# Example only -- replace these values with your current position.
+0 0 0 1.0

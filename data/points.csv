@@ -1,0 +1,326 @@
+# TOTK Explorer point database - verified source set
+# Sources: GameTW all-152 Shrines, all-120 Lightroots, all-15 Skyview Towers, all-35 Flux Constructs
+# Source pages: https://www.gamertw.com/en/zelda/totk/shrine ; https://www.gamertw.com/en/zelda/totk/lightroot ; https://www.gamertw.com/en/zelda/totk/tower ; https://www.gamertw.com/en/zelda/totk/flux-construct
+Type,Name,X,Y,Z
+Shrine,Tajikats Shrine,0344,-1009,0042
+Shrine,Jochi-iu Shrine,4347,2876,0188
+Shrine,Sitsum Shrine,2369,2596,0802
+Shrine,Oromuwak Shrine,-3079,1617,0264
+Shrine,Mayachin Shrine,-0706,-0869,0057
+Shrine,Musanokir Shrine,0408,2134,0167
+Shrine,Ren-iz Shrine,0756,0824,0106
+Shrine,Sahirow Shrine,-3354,2386,0380
+Shrine,Rotsumamu Shrine,-3407,-1363,0355
+Shrine,Mayamats Shrine,-4638,-1513,0470
+Shrine,Serutabomac Shrine,-0179,1170,0301
+Shrine,Mogawak Shrine,3300,0424,0136
+Shrine,Zanmik Shrine,3470,-2181,0171
+Shrine,Jiukoum Shrine,0868,-2278,0165
+Shrine,Iun-orok Shrine,-3539,0851,-0105
+Shrine,Soryotanog Shrine,-3882,-2963,0147
+Shrine,Mayak Shrine,1270,3733,0130
+Shrine,Gemimik Shrine,4513,2116,0027
+Shrine,Orochium Shrine,-1637,2642,0261
+Shrine,Sinakawak Shrine,-1415,0757,0113
+Shrine,Tauyosipun Shrine,-4539,2880,0283
+Shrine,Tukarok Shrine,0915,-0251,0059
+Shrine,Sikukuu Shrine,0699,2793,0248
+Shrine,Siwakama Shrine,-2446,-3344,0067
+Shrine,Turakawak Shrine,-3498,-0197,0090
+Shrine,Riogok Shrine,-1441,-1616,0113
+Shrine,Anedamimik Shrine,4232,-2178,0013
+Shrine,Mayausiy Shrine,-1167,2602,-0057
+Shrine,Ishodag Shrine,-0879,0423,0074
+Shrine,Kiuyoyou Shrine,-1107,2088,0128
+Shrine,Ekochiu Shrine,1063,1280,0071
+Shrine,Tadarok Shrine,-1082,-2187,0152
+Shrine,Karahatag Shrine,-3728,-3625,0068
+Shrine,Kisinona Shrine,2568,1246,0196
+Shrine,Oshozan-u Shrine,-1404,3678,0308
+Shrine,Gasas Shrine,-4153,0098,0066
+Shrine,Turakamik Shrine,-2657,-2237,0092
+Shrine,Gatakis Shrine,-3652,1806,0191
+Shrine,Ihen-a Shrine,3786,0578,0503
+Shrine,Tsutsu-um Shrine,-1423,-1351,0092
+Shrine,Kamatukis Shrine,3431,3357,0095
+Shrine,Sepapa Shrine,0222,1085,0053
+Shrine,Mayatat Shrine,-3291,-2512,0050
+Shrine,Susuyai Shrine,-0785,-0434,0044
+Shrine,Apogek Shrine,3887,-0217,0187
+Shrine,Domizuin Shrine,3305,1443,0444
+Shrine,Kikakin Shrine,-0396,2736,0308
+Shrine,Sibajitak Shrine,2400,3275,0421
+Shrine,Utsushok Shrine,0670,-3358,0096
+Shrine,Jikais Shrine,4267,-1673,0204
+Shrine,Kitawak Shrine,-1530,-2929,0341
+Shrine,Sonapan Shrine,-1922,-0359,0250
+Shrine,Marakuguc Shrine,1762,2510,0455
+Shrine,Runakit Shrine,-2530,1170,0200
+Shrine,Wao-os Shrine,-4058,1990,0206
+Shrine,Kyokugon Shrine,-0709,-1551,0032
+Shrine,Nouda Shrine,-2318,2201,0196
+Shrine,Eutoum Shrine,-3507,3570,0406
+Shrine,Isisim Shrine,1842,2842,0383
+Shrine,Mayachideg Shrine,3061,1824,0238
+Shrine,Otutsum Shrine,-4469,-0671,0526
+Shrine,Utojis Shrine,1218,-2543,0121
+Shrine,Kamizun Shrine,-0178,-1558,0048
+Shrine,Suariwak Shrine,-2524,-1770,0155
+Shrine,Rakakudaj Shrine,-2037,-1853,0089
+Shrine,Rasitakiwak Shrine,4167,1323,0251
+Shrine,Zakusu Shrine,3526,-1482,0190
+Shrine,Jojon Shrine,1202,0330,0052
+Shrine,Sifumim Shrine,2826,-3270,0102
+Shrine,Otak Shrine,-4391,3714,0234
+Shrine,Miryotanog Shrine,-4680,-3086,0079
+Shrine,Kimayat Shrine,2864,3638,0262
+Shrine,Momosik Shrine,2960,2758,0541
+Shrine,Igashuk Shrine,4655,3714,0154
+Shrine,Taki-ihaban Shrine,-1830,1195,0171
+Shrine,En-oma Shrine,0103,-2518,-0061
+Shrine,Yomizuk Shrine,4413,-0613,0060
+Shrine,Mayahisik Shrine,3729,-2059,0211
+Shrine,Motsusis Shrine,-1795,-3487,0070
+Shrine,Maoikes Shrine,2276,0147,0103
+Shrine,Moshapin Shrine,2679,1904,0154
+Shrine,Usazum Shrine,-2139,-0874,0118
+Shrine,Joniu Shrine,2918,0507,0178
+Shrine,Jiotak Shrine,1834,3180,0279
+Shrine,Ikatak Shrine,-3951,1139,0135
+Shrine,Chichim Shrine,-3211,-3007,-0024
+Shrine,Ninjis Shrine,0355,1892,0201
+Shrine,Tokiy Shrine,2304,-2378,-0003
+Shrine,Sakunbomar Shrine,0167,2320,0202
+Shrine,Rutafu-um Shrine,-2998,3102,0531
+Shrine,O-ogim Shrine,2756,-1089,0124
+Shrine,Jogou Shrine,3346,-1187,0082
+Shrine,Marari-in Shrine,4631,-3712,0044
+Shrine,Pupunke Shrine,0621,2211,0187
+Shrine,Bamitok Shrine,3094,-3210,0106
+Shrine,Irasak Shrine,-4159,-3825,0053
+Shrine,Kurakat Shrine,2361,-0511,0179
+Shrine,Susub Shrine,0349,-2052,-0001
+Shrine,Eshos Shrine,1566,-1945,0180
+Shrine,Yamiyo Shrine,0333,0470,0054
+Shrine,Teniten Shrine,-0075,-1116,0046
+Shrine,Mayaotaki Shrine,-0825,3535,0256
+Shrine,Makurukis Shrine,-2847,0630,0255
+Shrine,Sinatanika Shrine,3842,2300,0073
+Shrine,Jochisiu Shrine,0931,-1903,0055
+Shrine,Ishokin Shrine,-0565,-3524,0152
+Shrine,Sisuran Shrine,-2559,3354,0266
+Shrine,Tenmaten Shrine,-0595,1551,0011
+Shrine,Jochi-ihiga Shrine,3811,1219,0115
+Shrine,Makasura Shrine,1770,-1052,0189
+Shrine,Kyononis Shrine,-0205,0451,0046
+Shrine,Timawak Shrine,1800,1640,0332
+Shrine,Jonsau Shrine,1744,0018,0051
+Shrine,Rasiwak Shrine,4664,3263,0027
+Shrine,Kudanisar Shrine,-4167,-2143,0075
+Shrine,Joju-u-u Shrine,1515,-3577,0165
+Shrine,Jiosin Shrine,-0241,-0371,0052
+Shrine,Gatanisis Shrine,4498,0826,0119
+Shrine,Morok Shrine,1182,-0779,0157
+Shrine,Minetak Shrine,0394,3485,0093
+Shrine,Rakashog Shrine,-1715,-2119,1155
+Shrine,Tenbez Shrine,-0970,3535,1019
+Shrine,Ijo-o Shrine,-3861,2682,0716
+Shrine,Mayaumekis Shrine,-2948,3051,0907
+Shrine,Jirutagumac Shrine,2916,0534,0960
+Shrine,Kadaunar Shrine,1882,1203,1255
+Shrine,Mogisari Shrine,4655,3500,1018
+Shrine,Siyamotsus Shrine,-1795,-3295,1019
+Shrine,Ukouh Shrine,0275,-0913,1460
+Shrine,Gutanbac Shrine,0709,-1383,1582
+Shrine,In-isa Shrine,0026,-1504,1409
+Shrine,Nachoyah Shrine,0390,-1661,2284
+Shrine,Mayanas Shrine,4613,-0947,1784
+Shrine,Igoshon Shrine,3481,0666,1328
+Shrine,Joku-usin Shrine,1075,-3348,0798
+Shrine,Simosiwak Shrine,0162,1972,0771
+Shrine,Yansamin Shrine,2351,-1783,1475
+Shrine,Kumamayn Shrine,2857,-2856,1216
+Shrine,Gikaku Shrine,4506,2166,1160
+Shrine,Kahatanaum Shrine,-3296,3432,1349
+Shrine,Joku-u Shrine,1376,-3340,0447
+Shrine,Natak Shrine,3671,1484,1163
+Shrine,Ganos Shrine,-3370,0467,1691
+Shrine,Taunhiy Shrine,-2402,0825,0630
+Shrine,Josiu Shrine,1758,-1208,0933
+Shrine,Ga-ahisas Shrine,-3596,0961,1694
+Shrine,Jinodok Shrine,-1257,-1487,1016
+Shrine,Sihajog Shrine,4546,-0846,1127
+Shrine,Mayasiar Shrine,-3547,-0321,1956
+Shrine,Mayam Shrine,0340,2815,1814
+Shrine,Ukoojisi Shrine,1469,-2169,0601
+Shrine,Taninoud Shrine,-1802,3407,0958
+Lightroot,Stakijat Lightroot,0343,-1008,-0468
+Lightroot,Ui-ihcoj Lightroot,4347,2877,-0606
+Lightroot,Mustis Lightroot,2368,2597,-0940
+Lightroot,Kawumoro Lightroot,-3078,1617,-0683
+Lightroot,Nihcayam Lightroot,-0706,-0868,-0481
+Lightroot,Rikonasum Lightroot,0407,2134,-0590
+Lightroot,Zi-ner Lightroot,0757,0824,-0531
+Lightroot,Worihas Lightroot,-3354,2386,-0797
+Lightroot,Umamustor Lightroot,-3406,-1364,-0774
+Lightroot,Stamayam Lightroot,-4638,-1512,-0883
+Lightroot,Camobatures Lightroot,-0178,1170,-0515
+Lightroot,Kawagom Lightroot,3298,0420,-0744
+Lightroot,Kimnaz Lightroot,3470,-2182,-0592
+Lightroot,Muokuij Lightroot,0868,-2277,-0555
+Lightroot,Koro-nui Lightroot,-3539,0852,-0574
+Lightroot,Gonatoyros Lightroot,-3883,-2963,-0435
+Lightroot,Kayam Lightroot,1269,3733,-0552
+Lightroot,Kimimeg Lightroot,4512,2115,-0454
+Lightroot,Muihcoro Lightroot,-1638,2642,-0682
+Lightroot,Kawakanis Lightroot,-1416,0757,-0537
+Lightroot,Nupisoyuat Lightroot,-4538,2880,-0703
+Lightroot,Korakut Lightroot,0916,-0252,-0481
+Lightroot,Uukukis Lightroot,0698,2793,-0668
+Lightroot,Amakawis Lightroot,-2440,-3343,-0465
+Lightroot,Kawakarut Lightroot,-3487,-0215,-0515
+Lightroot,Kogoir Lightroot,-1442,-1616,-0537
+Lightroot,Kimimadena Lightroot,4233,-2177,-0521
+Lightroot,Yisuayam Lightroot,-1168,2602,-0353
+Lightroot,Gadohsi Lightroot,-0879,0423,-0497
+Lightroot,Uoyoyuik Lightroot,-1107,2089,-0552
+Lightroot,Uihcoke Lightroot,1063,1281,-0495
+Lightroot,Koradat Lightroot,-1081,-2186,-0560
+Lightroot,Gataharak Lightroot,-3729,-3625,-0494
+Lightroot,Anonisik Lightroot,2568,1247,-0598
+Lightroot,U-nazohso Lightroot,-1404,3678,-0708
+Lightroot,Sasag Lightroot,-4154,0098,-0489
+Lightroot,Kimakarut Lightroot,-2656,-2238,-0488
+Lightroot,Sikatag Lightroot,-3653,1807,-0418
+Lightroot,A-nehi Lightroot,3785,0578,-0918
+Lightroot,Mu-ustust Lightroot,-1423,-1352,-0517
+Lightroot,Sikutamak Lightroot,3431,3358,-0520
+Lightroot,Apapes Lightroot,0221,1084,-0474
+Lightroot,Tatayam Lightroot,-3291,-2511,-0476
+Lightroot,Iayusus Lightroot,-0785,-0433,-0470
+Lightroot,Kegopa Lightroot,3886,-0216,-0606
+Lightroot,Niuzimod Lightroot,3304,1443,-0785
+Lightroot,Nikakik Lightroot,-0397,2735,-0721
+Lightroot,Katijabis Lightroot,2401,3276,-0838
+Lightroot,Kohsustu Lightroot,0671,-3358,-0484
+Lightroot,Siakij Lightroot,4267,-1673,-0626
+Lightroot,Kawatik Lightroot,-1531,-2929,-0727
+Lightroot,Napanos Lightroot,-1922,-0360,-0633
+Lightroot,Cugukaram Lightroot,1763,2511,-0715
+Lightroot,Tikanur Lightroot,-2529,1170,-0620
+Lightroot,So-oaw Lightroot,-4058,1989,-0671
+Lightroot,Nogukoyk Lightroot,-0708,-1551,-0516
+Lightroot,Aduon Lightroot,-2318,2201,-0776
+Lightroot,Muotue Lightroot,-3508,3569,-0820
+Lightroot,Misisi Lightroot,1842,2843,-0832
+Lightroot,Gedihcayam Lightroot,3061,1825,-0660
+Lightroot,Mustuto Lightroot,-4470,-0672,-0940
+Lightroot,Sijotu Lightroot,1219,-2544,-0610
+Lightroot,Nuzimak Lightroot,-0179,-1559,-0474
+Lightroot,Kawiraus Lightroot,-2525,-1770,-0709
+Lightroot,Jadukakar Lightroot,-2037,-1852,-0504
+Lightroot,Kawikatisar Lightroot,4167,1322,-0670
+Lightroot,Usukaz Lightroot,3525,-1482,-0610
+Lightroot,Nojoj Lightroot,1201,0330,-0573
+Lightroot,Mimufis Lightroot,2825,-3269,-0526
+Lightroot,Kato Lightroot,-4390,3714,-0699
+Lightroot,Gonatoyrim Lightroot,-4681,-3086,-0503
+Lightroot,Tayamik Lightroot,2865,3639,-0681
+Lightroot,Kisomom Lightroot,2961,2758,-0955
+Lightroot,Kuhsagi Lightroot,4655,3732,-0382
+Lightroot,Nabahi-ikat Lightroot,-1829,1196,-0719
+Lightroot,Amo-ne Lightroot,0103,-2519,-0415
+Lightroot,Kuzimoy Lightroot,4413,-0612,-0513
+Lightroot,Kisihayam Lightroot,3728,-2059,-0662
+Lightroot,Sisustom Lightroot,-1795,-3498,-0457
+Lightroot,Sekioam Lightroot,2276,0150,-0501
+Lightroot,Nipahsom Lightroot,2680,1904,-0685
+Lightroot,Muzasu Lightroot,-2138,-0875,-0541
+Lightroot,Uinoj Lightroot,2918,0508,-0790
+Lightroot,Katoij Lightroot,1835,3181,-0831
+Lightroot,Kataki Lightroot,-3952,1140,-0550
+Lightroot,Mihcihc Lightroot,-3211,-3006,-0471
+Lightroot,Sijnin Lightroot,0355,1893,-0623
+Lightroot,Yikot Lightroot,2303,-2379,-0615
+Lightroot,Ramobnukas Lightroot,0167,2321,-0623
+Lightroot,Mu-ufatur Lightroot,-2998,3101,-0997
+Lightroot,Migo-o Lightroot,2756,-1088,-0548
+Lightroot,Uogoj Lightroot,3346,-1186,-0608
+Lightroot,Ni-iraram Lightroot,4630,-3712,-0505
+Lightroot,Eknupup Lightroot,0622,2211,-0609
+Lightroot,Kotimab Lightroot,3093,-3209,-0622
+Lightroot,Kasari Lightroot,-4158,-3826,-0478
+Lightroot,Takaruk Lightroot,2360,-0510,-0587
+Lightroot,Busus Lightroot,0350,-2052,-0471
+Lightroot,Sohse Lightroot,1563,-1945,-0464
+Lightroot,Oyimay Lightroot,0334,0469,-0479
+Lightroot,Netinet Lightroot,-0074,-1116,-0472
+Lightroot,Ikatoayam Lightroot,-0850,3535,-0614
+Lightroot,Sikurukam Lightroot,-2846,0630,-0619
+Lightroot,Akinatanis Lightroot,3841,2300,-0488
+Lightroot,Uisihcoj Lightroot,0930,-1904,-0460
+Lightroot,Nikohsi Lightroot,-0564,-3524,-0573
+Lightroot,Narusis Lightroot,-2559,3354,-0686
+Lightroot,Netamnet Lightroot,-0595,1550,-0597
+Lightroot,Agihi-ihcoj Lightroot,3812,1219,-0536
+Lightroot,Arusakam Lightroot,1769,-1053,-0606
+Lightroot,Sinonoyk Lightroot,-0204,0451,-0472
+Lightroot,Kawamit Lightroot,1800,1640,-0745
+Lightroot,Uasnoj Lightroot,1743,0018,-0460
+Lightroot,Kawisar Lightroot,4664,3264,-0454
+Lightroot,Rasinaduk Lightroot,-4169,-2142,-0487
+Lightroot,U-u-ujoj Lightroot,1514,-3578,-0529
+Lightroot,Nisoij Lightroot,-0240,-0372,-0478
+Lightroot,Sisinatag Lightroot,4497,0827,-0534
+Lightroot,Korom Lightroot,1181,-0779,-0500
+Lightroot,Katenim Lightroot,0394,3484,-0593
+Tower,Lookout Landing Skyview Tower,-0299,0143,0030
+Tower,Lindor's Brow Skyview Tower,-1910,1245,0297
+Tower,Pikida Stonegrove Skyview Tower,-2311,3062,0441
+Tower,Eldin Canyon Skyview Tower,1642,1191,0227
+Tower,Ulri Mountain Skyview Tower,3499,2026,0190
+Tower,Sahasra Slope Skyview Tower,1341,-1178,0169
+Tower,Upland Zorana Skyview Tower,2866,0581,0379
+Tower,Hyrule Field Skyview Tower,-0761,-1019,0069
+Tower,Gerudo Canyon Skyview Tower,-2439,-2183,0307
+Tower,Gerudo Highlands Skyview Tower,-3961,-1306,0421
+Tower,Rabella Wetlands Skyview Tower,2420,-2755,0224
+Tower,Thyphlo Ruins Skyview Tower,0344,3142,0182
+Tower,Popla Foothills Skyview Tower,0605,-2127,0103
+Tower,Mount Lanayru Skyview Tower,3848,-1315,0535
+Tower,Rospro Pass Skyview Tower,-3680,2346,0235
+Flux Construct,Flux Construct I - Sky,-3472,3519,0926
+Flux Construct,Flux Construct I - Sky,0442,2468,1645
+Flux Construct,Flux Construct I - Sky,-3834,2721,0547
+Flux Construct,Flux Construct I - Sky,0492,-1516,1426
+Flux Construct,Flux Construct II - Sky,3386,0633,1280
+Flux Construct,Flux Construct II - Sky,3674,1809,0984
+Flux Construct,Flux Construct II - Sky,-1344,-1548,0800
+Flux Construct,Flux Construct II - Sky,3000,-0252,0891
+Flux Construct,Flux Construct III - Sky,1133,-3273,0756
+Flux Construct,Flux Construct III - Sky,3301,3434,0793
+Flux Construct,Flux Construct III - Sky,3044,-2777,1192
+Flux Construct,Flux Construct III - Sky,2559,-3601,0891
+Flux Construct,Flux Construct III - Sky,-2290,-0412,0891
+Flux Construct,Flux Construct III - Sky,-0326,-2591,0891
+Flux Construct,Flux Construct III - Sky,-3450,0658,1421
+Flux Construct,Flux Construct I - Depths,-2182,-1503,-0662
+Flux Construct,Flux Construct I - Depths,0717,-0644,-0437
+Flux Construct,Flux Construct I - Depths,0101,-3714,-0432
+Flux Construct,Flux Construct II - Depths,-4147,-2961,-0464
+Flux Construct,Flux Construct II - Depths,-0723,1263,-0493
+Flux Construct,Flux Construct II - Depths,0225,3674,-0490
+Flux Construct,Flux Construct II - Depths,2680,3473,-0654
+Flux Construct,Flux Construct II - Depths,2639,-0937,-0633
+Flux Construct,Flux Construct II - Depths,2512,-1272,-0622
+Flux Construct,Flux Construct II - Depths,3701,2906,-0451
+Flux Construct,Flux Construct II - Depths,3198,1020,-0816
+Flux Construct,Flux Construct II - Depths,3527,-1340,-0582
+Flux Construct,Flux Construct III - Depths,-4413,2240,-0524
+Flux Construct,Flux Construct III - Depths,-4086,-0953,-1079
+Flux Construct,Flux Construct III - Depths,-2620,1705,-0663
+Flux Construct,Flux Construct III - Depths,0870,0678,-0517
+Flux Construct,Flux Construct III - Depths,3263,-3703,-0426
+Flux Construct,Flux Construct III - Depths,-1795,-3463,-0501
+Flux Construct,Flux Construct III - Depths,-0815,3534,-0658
+Flux Construct,Flux Construct III - Depths,4655,3697,-0426

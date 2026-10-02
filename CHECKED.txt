@@ -1,0 +1,24 @@
+TOTK Explorer v3.1.0 reviewed build
+
+Static review completed against the provided code review.
+
+Fixed:
+- GitHub Actions checks data/points.csv.
+- GitHub Actions uploads hidden .overlays contents.
+- Workflow supports main/master and workflow_dispatch.
+- Correct .github/workflows/build.yml path is used.
+- libtesla pinned to v1.3.3.
+- Candidate memory capped at 4096 and reservoir sampled.
+- Duplicate moving vector removed.
+- Live screens update ListItem values in update().
+- Version numbers unified to 3.1.0.
+- SD install path documented consistently.
+- Final .ovl is explicitly checked before artifact upload.
+
+Not verified in this environment:
+- Native devkitA64 compilation/runtime on a physical Switch.
+- Correctness of the TOTK coordinate candidate chosen by heuristic memory scan.
+- Completeness/correctness of the external TOTK point database.
+
+
+Compatibility fix: libtesla is fetched from current master, not v1.3.3. The supplied build log showed v1.3.3/libnx HID API mismatch.
